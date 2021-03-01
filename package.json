@@ -1,8 +1,0 @@
-{
-  "name": "cartascarletti",
-  "version": "1.0.0",
-  "description": "",
-  "dependencies": {
-    "bootstrap": "^4.6.0"
-  }
-}
